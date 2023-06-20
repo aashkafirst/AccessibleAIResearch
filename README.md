@@ -85,13 +85,17 @@ With the information overload that LLMs have empowered us with, I feel UI/UX is 
 
 More AI research will be made accessible and understandable by laymen that too in their own language, and there will be more awareness among people about “AI For Social Good” or “Responsible AI”. Hopefully, more people might be inclined towards contributing to the research of “AI For Social Good” or “Responsible AI” as well :)
 
-## Live Demo 📄
+## Project In Action 📄
+
+### Video Link: https://youtu.be/biER7Sl3PXI
 
 ### Screenshots:
 
+<img width="1371" alt="Tech vs Layman" src="https://github.com/aashkafirst/AccessibleAIResearch/assets/20123268/1b6a1a36-3820-4c47-af3e-667398cec4b5">
 
+<img width="1375" alt="Tech vs French Layman" src="https://github.com/aashkafirst/AccessibleAIResearch/assets/20123268/f4a560d6-49cf-4007-a047-0b6122b69d2e">
 
-### Video Link: https://youtu.be/biER7Sl3PXI
+<img width="1375" alt="Tech vs Hindi Layman" src="https://github.com/aashkafirst/AccessibleAIResearch/assets/20123268/2efeea1e-7a67-46da-a591-34b1147b0db8">
 
 ## Scope For Improvement 📌 
 
