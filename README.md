@@ -87,6 +87,8 @@ More AI research will be made accessible and understandable by laymen that too i
 
 ## Live Demo 📄
 
+Video Link: https://youtu.be/biER7Sl3PXI
+
 ## Scope For Improvement 📌 
 
 In my opinion, the following are the improvement areas for the project:
