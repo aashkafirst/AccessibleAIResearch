@@ -94,4 +94,5 @@ Video Link: https://youtu.be/biER7Sl3PXI
 In my opinion, the following are the improvement areas for the project:
 - Figure out an optimized API approach that produces desired results
 - Extend it to multiple languages
+
 I’m open to suggestions 🤗
