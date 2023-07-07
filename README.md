@@ -62,7 +62,7 @@ Since Anthropic is leading the research of "Responsible AI" or "AI For Social Go
 - Structuring the API request was a mess with a lot of HTML text involved in the request itself -> reminded me of the regex classes of my undergrad
 - Constant fear of overspending with multiple API requests just for a POC
 
-#### Conclusion: Unsatisfactory results achieved. Working on a better API approach using the API, Langchain & VectorDB 
+#### Conclusion: Satisfactory results achieved 
 
 ### Approach 4: Make the LLM scrape the required web content, simplify it and return both the original and simplified text in the same HTML structure using the API
 
@@ -100,7 +100,6 @@ More AI research will be made accessible and understandable by laymen that too i
 ## Scope For Improvement 📌 
 
 In my opinion, the following are the improvement areas for the project:
-- Figure out an optimized API approach that produces desired results
 - Extend it to multiple languages
 
 I’m open to suggestions 🤗
